@@ -1,11 +1,4 @@
 //  Cálculo da espessura mínima de anéis de costado de um tanque (API 650 - básico) //
-
-/*  Programador: Gabriel Salateo Rosin
-    RA: 172436
-    Universidade: UNICAMP
-    Disciplina: IQ475
-    Professores: Antônio Calos Luz Liboa e Wai Nam Chan
-    Finalidade: Atividade 1  */
     
 
 clc
